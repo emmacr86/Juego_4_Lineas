@@ -1,0 +1,42 @@
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe.config
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.pdb
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Juego.resources
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Properties.Resources.resources
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csproj.GenerateResource.Cache
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.exe
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.pdb
+C:\Users\USER1\Desktop\Emma\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Info.resources
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe.config
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.exe
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.pdb
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.pdb
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Juego.resources
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Info.resources
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Properties.Resources.resources
+C:\Users\Carlos\OneDrive - Universidad Hispanoamericana\Universidad\Progra 2\Proyecto2 - 4 en línea\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csproj.GenerateResource.Cache
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe.config
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.exe
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.pdb
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.pdb
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csprojResolveAssemblyReference.cache
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Juego.resources
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Info.resources
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Properties.Resources.resources
+C:\Users\chaconqu\Downloads\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csproj.GenerateResource.Cache
+C:\Users\USER1\Desktop\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe.config
+C:\Users\USER1\Desktop\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.exe
+C:\Users\USER1\Desktop\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.pdb
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe.config
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.exe
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.pdb
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.exe
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\bin\Debug\Proyecto2-4Lineas.pdb
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csprojResolveAssemblyReference.cache
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Juego.resources
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Info.resources
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2_4Lineas.Properties.Resources.resources
+C:\Users\jei03\OneDrive\Documentos\Universidad\Programación 2\Proyectos Programación 2\Proyecto2-4Lineas\Proyecto2-4Lineas\obj\Debug\Proyecto2-4Lineas.csproj.GenerateResource.Cache
